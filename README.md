@@ -143,7 +143,6 @@ Partial Autocorrelation
 Autocorrelation
 
 ![alt text](image-7.png)
-
 ### RESULT:
 
 Thus, a python program is created to fit ARMA Model successfully.
